@@ -1,0 +1,10 @@
+[
+  {
+    "VMName": "debiandemo",
+    "IPAddress": "172.19.88.15"
+  },
+  {
+    "VMName": "2025preview",
+    "IPAddress": "192.168.0.12"
+  }
+]
