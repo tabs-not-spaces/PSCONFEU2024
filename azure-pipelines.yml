@@ -6,7 +6,7 @@ pool:
 steps:
 - task: AzureCLI@2
   inputs:
-    azureSubscription: 'REPLACEME'
+    azureSubscription: 'PSCONFEU2024-WI'
     scriptType: 'pscore'
     scriptLocation: 'inlineScript'
     inlineScript: |
